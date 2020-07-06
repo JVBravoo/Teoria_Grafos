@@ -1,0 +1,25 @@
+src,dst,relationship,cost
+João Pessoa,Campina Grande,EROAD,42
+João Pessoa,Patos,EROAD,56
+Patos,Cabedelo,EROAD,19
+João Pessoa,São Bento,EROAD,297
+São Bento,São Mamede,EROAD,35
+São Mamede,Triunfo,EROAD,209
+Mamanguape,Patos,EROAD,17
+Areia,Mamanguape,EROAD,75
+Itaporanga,Areia,EROAD,132
+Rio Tinto,Itaporanga,EROAD,43
+Triunfo,Rio Tinto,EROAD,85
+São José do rio do Peixe,Cabedelo,EROAD,23
+São José do rio do Peixe,Campina Grande,EROAD,32
+Patos,São José do rio do Peixe,EROAD,30
+Itaporanga,Cabedelo,EROAD,21
+Campina Grande,João Pessoa,EROAD,42
+Itaporanga ,Cabedelo,EROAD,21
+João Pessoa,Rio Tinto,EROAD,54
+João Pessoa,São José do rio do Peixe,EROAD,96
+São Mamede,São Bento,EROAD,35
+Mamanguape,Areia,EROAD,75
+Patos,Campina Grande,EROAD ,62
+Itaporanga,São José do rio do Peixe,EROAD,80
+Itaporanga,São Mamede,EROAD ,20
